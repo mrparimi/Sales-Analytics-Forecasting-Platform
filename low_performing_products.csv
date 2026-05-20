@@ -1,0 +1,11 @@
+product_id,product_name,product_category,revenue,quantity
+46fce52cef5caa7cc225a5531c946c8b,health_beauty,health_beauty,2.2,1
+310dc32058903b6416c71faff132df9e,stationery,stationery,2.29,1
+8a3254bee785a526d548a81a9bc3c9be,construction_tools_construction,construction_tools_construction,2.55,3
+680cc8535be7cc69544238c1d6a83fe8,pet_shop,pet_shop,2.9,1
+2e8316b31db34314f393806fd7b6e185,stationery,stationery,2.99,1
+5304ff3fa35856a156e1170a6022d34d,art,art,3.5,1
+0eeeb45e2f5911fd44282e5bb0c624ff,music,music,3.85,1
+836c4b48c2b383bb38bb5788f828c596,fashion_underwear_beach,fashion_underwear_beach,3.9,1
+c2fb26742f8484dbfe9a8d70bdc54025,computers_accessories,computers_accessories,3.9,1
+dc9f66a56b89e4278d921898a861a29a,Unknown,Unknown,3.9,1
